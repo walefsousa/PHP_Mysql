@@ -1,0 +1,4 @@
+
+CREATE DATABASE teste;
+
+DROP DATABASE teste;
